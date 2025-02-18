@@ -18,5 +18,6 @@ export const MainTittles = styled.div`
     font-size: 4rem;
     font-weight: 700;
     color: #090909;
+    
     }
 `;
